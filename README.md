@@ -23,6 +23,6 @@ Current Project:
 - Socket Messenger using React, Express and Socket.io
 
 Last Project:
-- Password Generator using React, Flask with encryption and hashing hosting on Netlify and Heroku
+- Password Generator using React, Flask with encryption and hosts on Netlify and Heroku
 
 </Programming>
